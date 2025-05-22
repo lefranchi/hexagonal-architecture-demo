@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation of Hexagonal Architecture (also known as Ports and Adapters) using Spring Boot. The developed example is a product management system that implements basic CRUD operations following the principles of hexagonal architecture.
 
+[Here](https://leandrofranchi.medium.com/hexagonal-architecture-with-spring-boot-building-truly-scalable-systems-7948472406ed) a link to post.
+
 ## Project Structure
 
 The project follows the following package structure:
